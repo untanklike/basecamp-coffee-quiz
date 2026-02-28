@@ -98,7 +98,7 @@ export default function Quiz() {
             className="px-10 py-4 rounded-[12px] text-white text-lg font-medium transition-all duration-150 hover:opacity-90 active:scale-[0.99]"
             style={{ backgroundColor: "#b45309", fontFamily: "var(--font-inter)" }}
           >
-            Find my coffee →
+            Find my coffee personality →
           </button>
           <p
             className="text-sm mt-6"
