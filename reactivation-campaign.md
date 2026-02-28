@@ -31,6 +31,8 @@ It's genuinely fun. And your result might surprise you.
 
 Find out who you are: coffee-quiz-basecamp.vercel.app
 
+📸 Got your result? Screenshot it and share to Instagram Stories — tag us @basecampcoffee
+
 See you soon,
 The Basecamp Coffee community
 
