@@ -105,6 +105,16 @@ export const questions: Question[] = [
   },
   {
     id: "q5",
+    text: "What's your ideal work setup?",
+    options: [
+      { emoji: "🎧", text: "Standing desk, headphones, full focus mode", personality: "bold-adventurer" },
+      { emoji: "🏠", text: "Home office, slippers, familiar playlist", personality: "cozy-classic" },
+      { emoji: "☕", text: "A cute café with good lighting", personality: "sweet-enthusiast" },
+      { emoji: "🛋️", text: "Wherever feels comfortable that day", personality: "the-savorer" },
+    ],
+  },
+  {
+    id: "q6",
     text: "A barista slides a mystery drink across the counter and says \"trust me.\" What do you do?",
     options: [
       { emoji: "🚀", text: "You take a sip before they finish the sentence", personality: "bold-adventurer" },

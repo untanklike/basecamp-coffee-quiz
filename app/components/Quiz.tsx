@@ -104,7 +104,7 @@ export default function Quiz() {
             className="text-sm mt-6"
             style={{ color: "#a8a29e", fontFamily: "var(--font-inter)" }}
           >
-            Takes about 60 seconds
+            Takes about 90 seconds
           </p>
         </div>
       )}
