@@ -95,6 +95,16 @@ export default function QuizResult({ personality, onRetake }: QuizResultProps) {
         </p>
       </div>
 
+      {/* Instagram Stories prompt */}
+      <div
+        className="rounded-[16px] px-5 py-4 mb-4 text-center"
+        style={{ backgroundColor: "#fdf6ee", border: "1.5px solid #f3e4cc" }}
+      >
+        <p className="text-sm" style={{ color: "#78716c", fontFamily: "var(--font-inter)" }}>
+          📸 <strong style={{ color: "#1c1917" }}>Share to Instagram Stories</strong> — screenshot this screen and post it. Tag us <strong style={{ color: "#b45309" }}>@basecampcoffee</strong>
+        </p>
+      </div>
+
       {/* Share + retake */}
       <div className="flex gap-3">
         <button
